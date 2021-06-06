@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/todo-sovellus/static/css/main.92aa7b25.chunk.css",
+    "main.css": "/todo-sovellus/static/css/main.76440f72.chunk.css",
     "main.js": "/todo-sovellus/static/js/main.53794359.chunk.js",
     "main.js.map": "/todo-sovellus/static/js/main.53794359.chunk.js.map",
     "runtime-main.js": "/todo-sovellus/static/js/runtime-main.303eebaf.js",
@@ -8,13 +8,13 @@
     "static/js/2.6393f864.chunk.js": "/todo-sovellus/static/js/2.6393f864.chunk.js",
     "static/js/2.6393f864.chunk.js.map": "/todo-sovellus/static/js/2.6393f864.chunk.js.map",
     "index.html": "/todo-sovellus/index.html",
-    "static/css/main.92aa7b25.chunk.css.map": "/todo-sovellus/static/css/main.92aa7b25.chunk.css.map",
+    "static/css/main.76440f72.chunk.css.map": "/todo-sovellus/static/css/main.76440f72.chunk.css.map",
     "static/js/2.6393f864.chunk.js.LICENSE.txt": "/todo-sovellus/static/js/2.6393f864.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.303eebaf.js",
     "static/js/2.6393f864.chunk.js",
-    "static/css/main.92aa7b25.chunk.css",
+    "static/css/main.76440f72.chunk.css",
     "static/js/main.53794359.chunk.js"
   ]
 }

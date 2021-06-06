@@ -31,3 +31,9 @@ body {
   width: 100%;
   font-size: 25px;
 }
+.lisaa {
+  background: green;
+}
+.poista {
+  background: rgb(108, 16, 16);
+}

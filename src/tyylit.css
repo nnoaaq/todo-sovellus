@@ -1,0 +1,33 @@
+body {
+  background-image: linear-gradient(to right top, #2e2e2e, #756246);
+  height: 100vh;
+}
+.painikkeet {
+  display: flex;
+  flex-wrap: nowrap;
+}
+.painikkeet > * {
+  background: transparent;
+  border: 1px solid white;
+  padding: 15px;
+  color: white;
+}
+.button:hover,
+.button:focus {
+  text-decoration: underline;
+  cursor: pointer;
+  color: black;
+}
+.painikkeet input {
+  width: 100%;
+}
+.tehtavaElementit {
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid white;
+}
+.tehtavaElementti {
+  display: block;
+  width: 100%;
+  font-size: 25px;
+}

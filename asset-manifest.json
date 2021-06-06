@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/todo-sovellus/static/css/main.9d2121ca.chunk.css",
-    "main.js": "/todo-sovellus/static/js/main.80738cc3.chunk.js",
-    "main.js.map": "/todo-sovellus/static/js/main.80738cc3.chunk.js.map",
+    "main.js": "/todo-sovellus/static/js/main.145e6e36.chunk.js",
+    "main.js.map": "/todo-sovellus/static/js/main.145e6e36.chunk.js.map",
     "runtime-main.js": "/todo-sovellus/static/js/runtime-main.303eebaf.js",
     "runtime-main.js.map": "/todo-sovellus/static/js/runtime-main.303eebaf.js.map",
-    "static/js/2.6a8a79db.chunk.js": "/todo-sovellus/static/js/2.6a8a79db.chunk.js",
-    "static/js/2.6a8a79db.chunk.js.map": "/todo-sovellus/static/js/2.6a8a79db.chunk.js.map",
+    "static/js/2.65c1dafa.chunk.js": "/todo-sovellus/static/js/2.65c1dafa.chunk.js",
+    "static/js/2.65c1dafa.chunk.js.map": "/todo-sovellus/static/js/2.65c1dafa.chunk.js.map",
     "index.html": "/todo-sovellus/index.html",
     "static/css/main.9d2121ca.chunk.css.map": "/todo-sovellus/static/css/main.9d2121ca.chunk.css.map",
-    "static/js/2.6a8a79db.chunk.js.LICENSE.txt": "/todo-sovellus/static/js/2.6a8a79db.chunk.js.LICENSE.txt"
+    "static/js/2.65c1dafa.chunk.js.LICENSE.txt": "/todo-sovellus/static/js/2.65c1dafa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.303eebaf.js",
-    "static/js/2.6a8a79db.chunk.js",
+    "static/js/2.65c1dafa.chunk.js",
     "static/css/main.9d2121ca.chunk.css",
-    "static/js/main.80738cc3.chunk.js"
+    "static/js/main.145e6e36.chunk.js"
   ]
 }
